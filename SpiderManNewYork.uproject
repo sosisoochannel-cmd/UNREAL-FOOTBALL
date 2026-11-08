@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "Games",
+  "Description": "A mobile-focused open-world superhero traversal learning project.",
+  "Modules": [
+    {
+      "Name": "SpiderManNewYork",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "TargetPlatforms": [
+    "Android"
+  ]
+}
